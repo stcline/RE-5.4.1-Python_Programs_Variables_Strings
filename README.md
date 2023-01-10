@@ -21,7 +21,10 @@ The goal of this lab assignment is to introduce you to scripts (programs), Varia
 1. Complete the work in the notebook here (5.4.1-Python_Programs_Variables_Strings.ipynb).
 2. After you are done, add a text box at the bottom which describes what you learned about Python in this lesson.
 3. On your raspberry pi, write a script that does the following:
-    - 
+    - Creates a variable which contains any full sentence (Name that variable sentence).
+    - Use the `len` operator to determine the number of characters in that sentence - store that value in another variable called length.
+    - Use the one print command and the necessary operators to print a statement which includes what the first word, last word and length of the sentence. 
+    - For example: `the first and last words of this sentence are "It" and "times" and the sentence is 52 letters long, including spaces.`
 3. Copy that script into a code box and put it at the bottom of your notebook.
 5. Download the notebook as an ".ipynb" file on your computer.
 6. Rename the file as "Python_5.4.1_submission.ipynb" and upload it to this repository. 
